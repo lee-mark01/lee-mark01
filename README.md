@@ -36,7 +36,7 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-mark01&show_icons=true&theme=dark](https://github.com/anuraghazra/github-readme-stats)
+  [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-mark01&theme=dark](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-mark01)](https://github.com/anuraghazra/github-readme-stats)
   
