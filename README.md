@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=300&section=header&text=Seunghee%20Lee%20)
 ---
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>📚 Tech Stack </h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
