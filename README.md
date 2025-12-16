@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=gradient&height=300&section=header&text=Seunghee%20Lee%20)
+![header](https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=300&section=header&text=Seunghee%20Lee%20)
 ---
 
 
