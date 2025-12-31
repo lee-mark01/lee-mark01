@@ -41,8 +41,13 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <br/>
 
-  ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-mark01&show_icons=true&theme=dark)   
+  [![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-mark01&show_icons=true&theme=dark)](https://github.com/lee-mark01)
 
   <br/>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-mark01&layout=compact&theme=dark)
+
+  <br/>
+  
 </div>
 
