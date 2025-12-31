@@ -43,9 +43,9 @@
 
   <br/>
 
-[![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-mark01&show_icons=true&theme=dark)](https://github.com/lee-mark01)
+  ![Mark's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=lee-mark01&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-mark01&layout=compact&theme=dark)
+  ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lee-mark01&layout=compact&theme=dark)
 
   <br/>
   
