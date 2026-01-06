@@ -36,14 +36,7 @@
   ### DB
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
-  <br/>
-  <br/>  
 
-  ![Mark's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=lee-mark01&show_icons=true&theme=dark)
-
-  ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lee-mark01&layout=compact&theme=dark)
-
-  <br/>
   
 </div>
 
