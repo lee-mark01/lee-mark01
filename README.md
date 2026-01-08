@@ -36,7 +36,7 @@
   ### DB
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
-
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-mark01&show_icons=true&theme=black)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckms123)](https://solved.ac/ckms123/)
 
 </div>
