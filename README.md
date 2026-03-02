@@ -10,7 +10,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a Computer Science Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Data Engineer.<br/>
+  #### :fire: I aim to become a Backend Engineer.<br/>
   #### :mortar_board: Computer Science & International Trade, Incheon National University(INU)
   <br/>
   <br/>
@@ -31,8 +31,10 @@
 
   <br/>
   <br/>
+
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckms123)](https://solved.ac/ckms123/)
+
 
 </div>
 
