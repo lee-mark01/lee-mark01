@@ -33,11 +33,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
   <br/>
-  <br/>
-
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckms123)](https://solved.ac/ckms123/)
-
 
 </div>
 
